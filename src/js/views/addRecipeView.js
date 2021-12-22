@@ -30,7 +30,7 @@ class AddRecipeView extends View {
     this.overlay.addEventListener('click', this.toggleWindow.bind(this));
   }
 
-  AddHandlerUpload(handler) {
+  addHandlerUpload(handler) {
     this.parentElement.addEventListener('submit', function (e) {
       e.preventDefault();
       const dataArr = [...new FormData(this)];
