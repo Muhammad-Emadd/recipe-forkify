@@ -113,6 +113,9 @@ an example API GET request looks like this:
 
 This project was from Jonas Schmedtmann's 'The Complete JavaScript Course' on Udemy
 
+- <a href="https://twitter.com/jonasschmedtman">Jonas Schmedtmann</a>
+
+
 ## Thank you!
 
 Thank you so much for checking out this project! If you have any notes or bugs send them my way and I'll make sure they're fixed.
